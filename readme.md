@@ -38,8 +38,9 @@ Here are the steps you need to follow to claim the MasterClass discount:
    Choose from one of the subscription tiers: Individual, Duo, or Family.
 
 3. **Enter Promo Code**
+   Enter the Correct Promo Code.
 
-4. **Finalize Purchase**  
+5. **Finalize Purchase**  
    Complete your payment to gain immediate access to the MasterClass library.
 
 ## Key Features of MasterClass
